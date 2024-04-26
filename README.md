@@ -1,9 +1,13 @@
-Hola gente, soy Juan Caravantes. Estudiante de Ingeniería informática especializado en TI (Tenconologías de la Información).
+Hola gente, soy Juan Caravantes. Ingenierío informática especializado en TI (Tenconologías de la Información). Actual desarrollador de software cripto.
 
 Tengo conocimiento en Java ya que llevo programando en ese lenguaje desde que entré en la carrera. Me gusta mucho linux para programar.
 He tocado muchos lenguajes a lo largo de la carrera, por lo que me gustaría aprender Python, TypeScript y tecnologías orientadas a la cyberseguridad, por lo que estudio por mi cuenta cuando tengo tiempo libre.
 
+Tengo conocimiento en C++, QML, Python y cmake.
+
 Me gusta la cyberseguridad, es a lo que querría dedicarme profesionalmente cuando salga de la carrera, por lo que hago talleres de pentesting y busco conseguir títulos sobre CFS. La seguridad de sistemas informáticos es lo que me llama, por eso me metí en la intensificiación de TI.
+
+Actualmente estoy especializándome en Malware, para poder ser analista y experto en ello.
 
 Me gusta programar y hacer la lógica especialmente. Hacer los diseños no es mi fuerte, aunque la usabilidad y la experiencia de usuario se me da bien.
 
